@@ -27,7 +27,7 @@ serde = { version = "1.0.137", features = ["derive"], default-features = false }
 serde_json = "1.0.81"
 sysinfo = "0.24.2"
 thiserror = "1.0.32"
-tokio = { version = "1.21.0" }
+tokio = { version = "1.23.1" }
 tokio-retry = "0.3"
 tokio-stream = "0.1.8"
 url = "2.2.2"

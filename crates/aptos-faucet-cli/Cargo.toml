@@ -13,7 +13,7 @@ edition = "2021"
 clap = "3.1.18"
 serde = { version = "1.0.137", features = ["derive"] }
 serde_yaml = "0.8.24"
-tokio = { version = "1.21.0", features = ["full"] }
+tokio = { version = "1.23.1", features = ["full"] }
 url = "2.2.2"
 
 aptos = { path = "../aptos" }
