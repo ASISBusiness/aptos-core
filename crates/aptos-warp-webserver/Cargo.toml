@@ -18,4 +18,4 @@ bcs = { git = "https://github.com/aptos-labs/bcs", rev = "2cde3e8446c460cb17b0c1
 hyper = "0.14.18"
 serde = { version = "1.0.137", features = ["derive"], default-features = false }
 serde_json = { version = "1.0.81", features = ["preserve_order"] }
-warp = { version = "0.3.2", features = ["default", "tls"] }
+warp = { version = "0.3.3", features = ["default", "tls"] }
