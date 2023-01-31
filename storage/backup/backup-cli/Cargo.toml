@@ -48,7 +48,7 @@ storage-interface = { path = "../../storage-interface" }
 
 [dev-dependencies]
 proptest = "1.0.0"
-warp = "0.3.2"
+warp = "0.3.3"
 
 aptos-config = { path = "../../../config" }
 aptos-proptest-helpers = { path = "../../../crates/aptos-proptest-helpers" }
