@@ -10,7 +10,7 @@ publish = false
 edition = "2021"
 
 [dependencies]
-tokio = { version = "1.21.0", features = ["time"] }
+tokio = { version = "1.24.2", features = ["time"] }
 
 aptos-logger = { path = "../../crates/aptos-logger" }
 
