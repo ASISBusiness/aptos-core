@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aptos": "latest"
+    "aptos": "1.14.0"
   },
   "devDependencies": {
     "typescript": "4.8.2"
