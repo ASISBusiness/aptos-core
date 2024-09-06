@@ -30,7 +30,7 @@
     "Node Health Checker"
   ],
   "dependencies": {
-    "axios": "0.27.2"
+    "axios": "1.6.8"
   },
   "devDependencies": {
     "@types/jest": "28.1.8",
